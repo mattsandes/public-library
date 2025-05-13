@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="io.github.library.unittests.BookServiceTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-13T04:35:55.989Z" hostname="mateus-IdeaPad-3" time="0.782">
+<testsuite name="io.github.library.unittests.BookServiceTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-13T04:50:06" hostname="mateus-IdeaPad-3" time="0.737">
   <properties/>
-  <testcase name="Validar que é possivel buscar por itens salvos" classname="io.github.library.unittests.BookServiceTests" time="0.756"/>
-  <testcase name="Validar que é possivel encontrar livros por seus ids" classname="io.github.library.unittests.BookServiceTests" time="0.011"/>
-  <testcase name="Validar que é possivel apgar um obejto pelo id" classname="io.github.library.unittests.BookServiceTests" time="0.007"/>
+  <testcase name="Validar que é possivel buscar por itens salvos" classname="io.github.library.unittests.BookServiceTests" time="0.714"/>
+  <testcase name="Validar que é possivel encontrar livros por seus ids" classname="io.github.library.unittests.BookServiceTests" time="0.009"/>
+  <testcase name="Validar que é possivel apgar um obejto pelo id" classname="io.github.library.unittests.BookServiceTests" time="0.006"/>
   <testcase name="Validar que é possivel criar recuros com dados validos" classname="io.github.library.unittests.BookServiceTests" time="0.002"/>
   <testcase name="Validar que é possivel atualizar dados de livros" classname="io.github.library.unittests.BookServiceTests" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
