@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="io.github.library.unittests.BookServiceTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-13T04:25:13.287Z" hostname="mateus-IdeaPad-3" time="0.702">
+<testsuite name="io.github.library.unittests.BookServiceTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-13T04:35:55.989Z" hostname="mateus-IdeaPad-3" time="0.782">
   <properties/>
-  <testcase name="Validar que é possivel buscar por itens salvos" classname="io.github.library.unittests.BookServiceTests" time="0.672"/>
-  <testcase name="Validar que é possivel encontrar livros por seus ids" classname="io.github.library.unittests.BookServiceTests" time="0.01"/>
-  <testcase name="Validar que é possivel apgar um obejto pelo id" classname="io.github.library.unittests.BookServiceTests" time="0.008"/>
-  <testcase name="Validar que é possivel criar recuros com dados validos" classname="io.github.library.unittests.BookServiceTests" time="0.005"/>
-  <testcase name="Validar que é possivel atualizar dados de livros" classname="io.github.library.unittests.BookServiceTests" time="0.004"/>
+  <testcase name="Validar que é possivel buscar por itens salvos" classname="io.github.library.unittests.BookServiceTests" time="0.756"/>
+  <testcase name="Validar que é possivel encontrar livros por seus ids" classname="io.github.library.unittests.BookServiceTests" time="0.011"/>
+  <testcase name="Validar que é possivel apgar um obejto pelo id" classname="io.github.library.unittests.BookServiceTests" time="0.007"/>
+  <testcase name="Validar que é possivel criar recuros com dados validos" classname="io.github.library.unittests.BookServiceTests" time="0.002"/>
+  <testcase name="Validar que é possivel atualizar dados de livros" classname="io.github.library.unittests.BookServiceTests" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[Mockito is currently self-attaching to enable the inline-mock-maker. This will no longer work in future releases of the JDK. Please add Mockito as an agent to your build as described in Mockito's documentation: https://javadoc.io/doc/org.mockito/mockito-core/latest/org.mockito/org/mockito/Mockito.html#0.3
 WARNING: A Java agent has been loaded dynamically (/home/mateus/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.15.11/a38b16385e867f59a641330f0362ebe742788ed8/byte-buddy-agent-1.15.11.jar)
