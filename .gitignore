@@ -1,16 +1,16 @@
-# Compiled class file
+# Ignore arquivos compilados
 *.class
 
-# Log file
+# Arquivos de log
 *.log
 
-# BlueJ files
+# Arquivos do BlueJ
 *.ctxt
 
-# Mobile Tools for Java (J2ME)
+# Arquivos do Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+# Arquivos de pacotes
 *.jar
 *.war
 *.nar
@@ -19,6 +19,16 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# Logs de erro da máquina virtual, veja http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Ignorar diretórios específicos do Gradle, mas garantir que o Wrapper não seja ignorado
+gradle/*
+!gradle/wrapper/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Não ignorar os arquivos do Gradle Wrapper
+!gradlew
+!gradlew.bat
